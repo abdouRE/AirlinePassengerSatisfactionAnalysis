@@ -1,7 +1,5 @@
-# Ignore data files
-train.csv
-test.csv
+# Data files
 *.csv
 
-# Ignore Jupyter checkpoints
+# Jupyter checkpoints
 .ipynb_checkpoints/
